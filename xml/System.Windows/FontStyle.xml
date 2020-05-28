@@ -39,7 +39,7 @@
 |----------------|-----------------|  
 |Normal|The characters in a normal, or roman, font are upright.|  
 |Italic|The characters in an italic font are truly slanted and appear as they were designed.|  
-|Oblique|The characters in an oblique font are artificially slanted. The slant is achieved by performing a shear transformation on the characters from a normal font. When a true italic font is not available on a computer or printer, an oblique style can generated from the normal font and used to simulate an italic font.|  
+|Oblique|The characters in an oblique font are artificially slanted. The slant is achieved by performing a shear transformation on the characters from a normal font. When a true italic font is not available on a computer or printer, an oblique style can be generated from the normal font and used to simulate an italic font.|  
   
  You can use the enumerated values of the <xref:System.Windows.FontStyles> class to set the <xref:System.Windows.FontStyle> structure.  
   
